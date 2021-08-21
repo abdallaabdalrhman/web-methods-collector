@@ -5,7 +5,7 @@ it's python3 script  to collect a HTTP methods allowed on the web sites,The scri
 
 python3 options.py -f subdomains.txt
 
-#to save the output in the file
+# to save the output in the file
 
 python3 options.py -f subdomains.txt -o output.txt
 
