@@ -3,10 +3,16 @@ it's python3 script  to collect a HTTP methods allowed on the web sites,The scri
 
 ## How to use this script?
 
-[python3 options.py -f subdomains.txt]
+python3 options.py -f subdomains.txt
 
 #to save the output in the file
 
 python3 options.py -f subdomains.txt -o output.txt
 
 ## Author
+Abdalla Abdelrhman Mubarak
+https://www.linkedin.com/in/abdalla-abdalrhman-71b68016b/
+
+## special thanks for:
+Zahir Tariq
+https://www.linkedin.com/in/zahir-tariq009/
