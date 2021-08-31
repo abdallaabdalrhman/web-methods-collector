@@ -52,4 +52,3 @@ for item in results:
     anaconda.write(str(item))
     anaconda.write('\n')
 anaconda.close()
-
